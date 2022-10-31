@@ -1,6 +1,7 @@
 # number_quiz
 
-A new Flutter project.
+인프런 Flutter 앱 개발
+실습 앱 - 숫자 퀴즈
 
 ## Getting Started
 
